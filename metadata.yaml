@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8701
     wikipedia: http://fr.wikipedia.org/wiki/%C3%89tienne_Dolet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19483#La-mani-re-de-bien-traduire-d-une-langue-en-aultre
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2006-10-06'
 gutenberg_type: Text
