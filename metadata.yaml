@@ -1,0 +1,31 @@
+_repo: La-mani-re-de-bien-traduire-d-une-langue-en-aultre_19483
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dolet, Etienne
+    aliases:
+    - Dolet, Étienne
+    - Doletus, Stephanus
+    birthdate: 1509
+    deathdate: 1546
+    gutenberg_agent_id: '8701'
+    url: http://www.gutenberg.org/2009/agents/8701
+    wikipedia: http://fr.wikipedia.org/wiki/%C3%89tienne_Dolet
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2006-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19483'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Middle French, 1300-1600'
+- !lcc 'PC'
+title: La manière de bien traduire d'une langue en aultre
+url: http://www.gutenberg.org/ebooks/19483
